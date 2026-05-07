@@ -1,3 +1,5 @@
+[**English**](README.md) | [Українська](README.uk.md)
+
 # Address Book - Birthdays
 
 CLI address book extended with birthday tracking and a "who's having a birthday in the next 7 days" query, including weekend roll-over (a Saturday/Sunday birthday is reported on the next Monday).
